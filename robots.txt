@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://levelbestremodeling.github.io/sitemap.xml
