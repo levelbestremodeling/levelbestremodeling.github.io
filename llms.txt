@@ -1,0 +1,42 @@
+# Level Best Remodeling
+
+> Bathroom remodeling and home repair contractor serving Coral Gables, Pinecrest, South Miami, Coconut Grove and Kendall, Florida. One crew, free written quote, English and Spanish. Phone and WhatsApp: (305) 753-7968. We do not do plumbing work.
+
+Level Best Remodeling / Remodelación y reparaciones del hogar. Servicio en inglés y español. Cotización gratis por escrito.
+
+## Services
+- [Bathroom remodeling](https://levelbestremodeling.github.io/bathroom-remodeling): A bathroom remodel touches walls, floors, tile and finishes all at once. One crew does the work, so you deal with one team from the first measurement to the final walkthrough.
+- [Painting](https://levelbestremodeling.github.io/painting): Good paint starts with good prep. We patch, sand and mask first, so the finish looks clean and lasts.
+- [Walls & drywall](https://levelbestremodeling.github.io/wall-and-drywall-repair): Holes, cracks and dents should not be the first thing you see in a room. We repair the wall and finish it so it blends in.
+- [Doors & trim](https://levelbestremodeling.github.io/doors-and-trim): A door that sticks or a missing baseboard makes a whole room look unfinished. We replace, adjust and install doors and trim.
+- [Floors](https://levelbestremodeling.github.io/floors): Sometimes the problem is under the floor. We rebuild damaged subfloors from the base and install the new floor on top.
+
+## Service areas
+- [Coral Gables](https://levelbestremodeling.github.io/coral-gables): Permits in Coral Gables go through the City of Coral Gables.
+- [South Miami](https://levelbestremodeling.github.io/south-miami): Permits in South Miami go through the City of South Miami.
+- [Pinecrest](https://levelbestremodeling.github.io/pinecrest): Permits in Pinecrest go through the Village of Pinecrest.
+- [Coconut Grove](https://levelbestremodeling.github.io/coconut-grove): Coconut Grove is part of the City of Miami, so permits go through the City of Miami.
+- [Kendall](https://levelbestremodeling.github.io/kendall): Most of Kendall is unincorporated Miami-Dade County, so permits usually go through the county.
+
+## Guides
+- [How much does a bathroom remodel cost in Miami?](https://levelbestremodeling.github.io/bathroom-remodel-cost-miami): what changes the price and how to compare quotes. No fixed prices are published; every job is quoted in writing after measuring.
+
+## Contact
+- Phone / WhatsApp: (305) 753-7968 (https://wa.me/13057537968)
+- Website (English): https://levelbestremodeling.github.io/
+- Sitio (Español): https://levelbestremodeling.github.io/es/
+- Quotes: free, in writing, after we measure the job.
+
+## Páginas en español
+- [Inicio](https://levelbestremodeling.github.io/es/)
+- [Remodelación de baños](https://levelbestremodeling.github.io/es/remodelacion-de-banos)
+- [Pintura](https://levelbestremodeling.github.io/es/pintura)
+- [Paredes y drywall](https://levelbestremodeling.github.io/es/reparacion-de-paredes)
+- [Puertas y molduras](https://levelbestremodeling.github.io/es/puertas-y-molduras)
+- [Pisos](https://levelbestremodeling.github.io/es/pisos)
+- [Coral Gables](https://levelbestremodeling.github.io/es/coral-gables)
+- [South Miami](https://levelbestremodeling.github.io/es/south-miami)
+- [Pinecrest](https://levelbestremodeling.github.io/es/pinecrest)
+- [Coconut Grove](https://levelbestremodeling.github.io/es/coconut-grove)
+- [Kendall](https://levelbestremodeling.github.io/es/kendall)
+- [Cuánto cuesta remodelar un baño en Miami](https://levelbestremodeling.github.io/es/cuanto-cuesta-remodelar-un-bano-en-miami)
