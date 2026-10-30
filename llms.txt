@@ -1,6 +1,6 @@
 # Level Best Remodeling
 
-> Bathroom remodeling and home repair contractor serving Coral Gables, Pinecrest, South Miami, Coconut Grove and Kendall, Florida. One crew, free written quote, English and Spanish. Phone and WhatsApp: (305) 753-7968. We do not do plumbing work.
+> Bathroom remodeling and home repair contractor serving Coral Gables, Pinecrest, South Miami, Coconut Grove, Palmetto Bay and Kendall, Florida. One crew, free written quote, English and Spanish. Phone and WhatsApp: (305) 753-7968. We do not do plumbing work.
 
 Level Best Remodeling / Remodelación y reparaciones del hogar. Servicio en inglés y español. Cotización gratis por escrito.
 
@@ -17,6 +17,7 @@ Level Best Remodeling / Remodelación y reparaciones del hogar. Servicio en ingl
 - [Pinecrest](https://levelbestremodeling.github.io/pinecrest): Permits in Pinecrest go through the Village of Pinecrest.
 - [Coconut Grove](https://levelbestremodeling.github.io/coconut-grove): Coconut Grove is part of the City of Miami, so permits go through the City of Miami.
 - [Kendall](https://levelbestremodeling.github.io/kendall): Most of Kendall is unincorporated Miami-Dade County, so permits usually go through the county.
+- [Palmetto Bay](https://levelbestremodeling.github.io/palmetto-bay): Permits in Palmetto Bay go through the Village of Palmetto Bay.
 
 ## Guides
 - [How much does a bathroom remodel cost in Miami?](https://levelbestremodeling.github.io/bathroom-remodel-cost-miami): what changes the price and how to compare quotes. No fixed prices are published; every job is quoted in writing after measuring.
@@ -39,4 +40,5 @@ Level Best Remodeling / Remodelación y reparaciones del hogar. Servicio en ingl
 - [Pinecrest](https://levelbestremodeling.github.io/es/pinecrest)
 - [Coconut Grove](https://levelbestremodeling.github.io/es/coconut-grove)
 - [Kendall](https://levelbestremodeling.github.io/es/kendall)
+- [Palmetto Bay](https://levelbestremodeling.github.io/es/palmetto-bay)
 - [Cuánto cuesta remodelar un baño en Miami](https://levelbestremodeling.github.io/es/cuanto-cuesta-remodelar-un-bano-en-miami)
